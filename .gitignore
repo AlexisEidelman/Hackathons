@@ -90,3 +90,7 @@ ENV/
 
 MAEDI/config_twitter_api.py
 
+
+*.html
+*.txt
+
