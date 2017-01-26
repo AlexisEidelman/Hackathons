@@ -88,6 +88,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
-
 MAEDI/config_twitter_api.py
 
