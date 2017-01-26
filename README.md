@@ -1,6 +1,6 @@
 
 # Hackathons
-Dossier contenant les travaux réalisé pendant les hackathons
+Dossier contenant les travaux réalisés (à la va-vite) pendant les hackathons
 
 ## DataCampAN
 repo du 1er hackathon à l'assemblée nationale 
